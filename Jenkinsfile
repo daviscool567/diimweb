@@ -24,7 +24,7 @@ pipeline {
     stage("deploy") {
 
             steps {
-                echo "testing jenkins deploy stage piepline"
+                echo 'testing jenkins deploy stage piepline'
             }
 
         }
